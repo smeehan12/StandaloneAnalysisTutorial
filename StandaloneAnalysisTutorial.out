@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Your Project}{}% 2
+\BOOKMARK [1][-]{section.3}{Tools}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Root Preface}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{MadGraph Setup}{section.3}% 5
+\BOOKMARK [3][-]{subsubsection.3.2.1}{MadGraph Setup and Usage}{subsection.3.2}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.2}{ExRootSTDHEPConverter Usage}{subsection.3.2}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.3}{FastJet Setup}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.4}{nTuple Creation}{subsection.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Standalone ROOT nTuple Analysis}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Initial Setup}{subsection.3.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Generate Class}{subsection.3.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Modify Physics.h}{subsection.3.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Modify Physics.C}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.5}{Make Compiling Tools}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.6}{Compile and Run for First Time}{subsection.3.3}% 16
+\BOOKMARK [1][-]{section.4}{Encouraging Words}{}% 17

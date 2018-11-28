@@ -1,0 +1,20 @@
+%%%%%%%%%%%%%%%%%%%%%
+%%% FOR DRAFT MODE    %%%
+%%%%%%%%%%%%%%%%%%%%%
+\usepackage[left]{lineno}   % Adds line numbers to the document
+% Remember to use \linenumbers after \begin{document}
+\usepackage{tdsdraft}   % To use timestamp in header
+\usepackage{fancyhdr}   % Allows for DRAFT in header
+\pagestyle{fancy}     % Allows for use of fancyhdr
+\fancyhead{} % clear all header fields
+% Disable header and footer rules
+\renewcommand{\headrulewidth}{0pt}
+%Move the header up away from the text
+\headsep = 25pt
+% Print the timestamp and DRAFT note in the header
+\fancyhead[L]{\today---\timestamp}
+\fancyhead[C]{\fbox{{\bf DRAFT}}}
+\fancyhead[R]{\textsc{Do not cite or distribute}}
+%%%%%%%%%%%%%%%%%%%%%
+%%% END DRAFT MODE    %%%
+%%%%%%%%%%%%%%%%%%%%%
